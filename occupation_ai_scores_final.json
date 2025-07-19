@@ -1,0 +1,2934 @@
+{
+  "Accommodation and Food Services": [
+    {
+      "title": "Baggage Porters and Bellhops",
+      "aiScore": -1.27
+    },
+    {
+      "title": "Bartenders",
+      "aiScore": -0.62
+    },
+    {
+      "title": "Chefs and Head Cooks",
+      "aiScore": -0.27
+    },
+    {
+      "title": "Cooks, Fast Food",
+      "aiScore": -0.71
+    },
+    {
+      "title": "Cooks, Restaurant",
+      "aiScore": -0.74
+    },
+    {
+      "title": "Cooks, Short Order",
+      "aiScore": -0.59
+    },
+    {
+      "title": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+      "aiScore": -1.93
+    },
+    {
+      "title": "Dishwashers",
+      "aiScore": -1.74
+    },
+    {
+      "title": "Driver/Sales Workers",
+      "aiScore": -0.73
+    },
+    {
+      "title": "First-Line Supervisors/Managers of Food Preparation and Serving Workers",
+      "aiScore": -0.26
+    },
+    {
+      "title": "Food Preparation Workers",
+      "aiScore": -1.23
+    },
+    {
+      "title": "Food Service Managers",
+      "aiScore": -0.12
+    },
+    {
+      "title": "Gaming Dealers",
+      "aiScore": 0.06
+    },
+    {
+      "title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+      "aiScore": -0.06
+    },
+    {
+      "title": "Hotel, Motel, and Resort Desk Clerks",
+      "aiScore": 0.61
+    },
+    {
+      "title": "Lodging Managers",
+      "aiScore": 0.4
+    },
+    {
+      "title": "Maids and Housekeeping Cleaners",
+      "aiScore": -1.48
+    },
+    {
+      "title": "Waiters and Waitresses",
+      "aiScore": -0.95
+    }
+  ],
+  "Administrative and Support Services": [
+    {
+      "title": "Bill and Account Collectors",
+      "aiScore": 1.27
+    },
+    {
+      "title": "Commercial Divers",
+      "aiScore": -1.1
+    },
+    {
+      "title": "Crossing Guards",
+      "aiScore": -0.57
+    },
+    {
+      "title": "Data Entry Keyers",
+      "aiScore": 0.31
+    },
+    {
+      "title": "Employment, Recruitment, and Placement Specialists",
+      "aiScore": 1.36
+    },
+    {
+      "title": "First-Line Supervisors/Managers of Housekeeping and Janitorial Workers",
+      "aiScore": -0.59
+    },
+    {
+      "title": "First-Line Supervisors/Managers of Landscaping, Lawn Service, and Groundskeeping Workers",
+      "aiScore": -0.55
+    },
+    {
+      "title": "Hazardous Materials Removal Workers",
+      "aiScore": -0.69
+    },
+    {
+      "title": "Installation, Maintenance, and Repair Workers, All Other",
+      "aiScore": -0.59
+    },
+    {
+      "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "aiScore": -1.44
+    },
+    {
+      "title": "Landscaping and Groundskeeping Workers",
+      "aiScore": -1.82
+    },
+    {
+      "title": "Locksmiths and Safe Repairers",
+      "aiScore": -0.87
+    },
+    {
+      "title": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+      "aiScore": -0.82
+    },
+    {
+      "title": "Office Machine Operators, Except Computer",
+      "aiScore": -0.52
+    },
+    {
+      "title": "Pest Control Workers",
+      "aiScore": -0.73
+    },
+    {
+      "title": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+      "aiScore": -0.88
+    },
+    {
+      "title": "Refuse and Recyclable Material Collectors",
+      "aiScore": -1.28
+    },
+    {
+      "title": "Security Guards",
+      "aiScore": -0.39
+    },
+    {
+      "title": "Security and Fire Alarm Systems Installers",
+      "aiScore": -0.69
+    },
+    {
+      "title": "Septic Tank Servicers and Sewer Pipe Cleaners",
+      "aiScore": -1.21
+    },
+    {
+      "title": "Telemarketers",
+      "aiScore": 1.12
+    },
+    {
+      "title": "Travel Agents",
+      "aiScore": 1.13
+    },
+    {
+      "title": "Tree Trimmers and Pruners",
+      "aiScore": -1.73
+    }
+  ],
+  "Agriculture, Forestry, Fishing, and Hunting": [
+    {
+      "title": "Agricultural Equipment Operators",
+      "aiScore": -1.15
+    },
+    {
+      "title": "Animal Breeders",
+      "aiScore": -1.04
+    },
+    {
+      "title": "Animal Trainers",
+      "aiScore": -0.92
+    },
+    {
+      "title": "Fallers",
+      "aiScore": -1.8
+    },
+    {
+      "title": "Farm Labor Contractors",
+      "aiScore": -0.44
+    },
+    {
+      "title": "Farmers, Ranchers, and Other Agricultural Managers",
+      "aiScore": -0.14
+    },
+    {
+      "title": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+      "aiScore": -1.6
+    },
+    {
+      "title": "Farmworkers, Farm and Ranch Animals",
+      "aiScore": -1.11
+    },
+    {
+      "title": "First-Line Supervisors/Managers of Farming, Fishing, and Forestry Workers",
+      "aiScore": -0.48
+    },
+    {
+      "title": "Graders and Sorters, Agricultural Products",
+      "aiScore": -1.37
+    },
+    {
+      "title": "Logging Equipment Operators",
+      "aiScore": -1.0
+    }
+  ],
+  "Arts, Entertainment, and Recreation": [
+    {
+      "title": "Actors",
+      "aiScore": 0.16
+    },
+    {
+      "title": "Agents and Business Managers of Artists, Performers, and Athletes",
+      "aiScore": 1.07
+    },
+    {
+      "title": "Amusement and Recreation Attendants",
+      "aiScore": -0.52
+    },
+    {
+      "title": "Athletes and Sports Competitors",
+      "aiScore": -1.81
+    },
+    {
+      "title": "Costume Attendants",
+      "aiScore": -0.45
+    },
+    {
+      "title": "Craft Artists",
+      "aiScore": -0.93
+    },
+    {
+      "title": "Curators",
+      "aiScore": 0.74
+    },
+    {
+      "title": "Dancers",
+      "aiScore": -2.67
+    },
+    {
+      "title": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+      "aiScore": -0.57
+    },
+    {
+      "title": "Fitness Trainers and Aerobics Instructors",
+      "aiScore": -2.11
+    },
+    {
+      "title": "Gaming and Sports Book Writers and Runners",
+      "aiScore": 0.47
+    },
+    {
+      "title": "Locker Room, Coatroom, and Dressing Room Attendants",
+      "aiScore": -0.35
+    },
+    {
+      "title": "Museum Technicians and Conservators",
+      "aiScore": -0.09
+    },
+    {
+      "title": "Set and Exhibit Designers",
+      "aiScore": -0.05
+    },
+    {
+      "title": "Tour Guides and Escorts",
+      "aiScore": 0.36
+    },
+    {
+      "title": "Travel Guides",
+      "aiScore": 0.61
+    },
+    {
+      "title": "Umpires, Referees, and Other Sports Officials",
+      "aiScore": -0.03
+    }
+  ],
+  "Construction": [
+    {
+      "title": "Boilermakers",
+      "aiScore": -1.1
+    },
+    {
+      "title": "Brickmasons and Blockmasons",
+      "aiScore": -1.75
+    },
+    {
+      "title": "Carpenters",
+      "aiScore": -1.32
+    },
+    {
+      "title": "Carpet Installers",
+      "aiScore": -1.56
+    },
+    {
+      "title": "Cement Masons and Concrete Finishers",
+      "aiScore": -1.78
+    },
+    {
+      "title": "Construction Laborers",
+      "aiScore": -1.62
+    },
+    {
+      "title": "Construction Managers",
+      "aiScore": 1.03
+    },
+    {
+      "title": "Construction and Related Workers, All Other",
+      "aiScore": -0.87
+    },
+    {
+      "title": "Cost Estimators",
+      "aiScore": 1.37
+    },
+    {
+      "title": "Crane and Tower Operators",
+      "aiScore": -1.03
+    },
+    {
+      "title": "Drywall and Ceiling Tile Installers",
+      "aiScore": -1.65
+    },
+    {
+      "title": "Earth Drillers, Except Oil and Gas",
+      "aiScore": -0.7
+    },
+    {
+      "title": "Electricians",
+      "aiScore": -0.78
+    },
+    {
+      "title": "Elevator Installers and Repairers",
+      "aiScore": -0.86
+    },
+    {
+      "title": "Fence Erectors",
+      "aiScore": -1.9
+    },
+    {
+      "title": "First-Line Supervisors/Managers of Construction Trades and Extraction Workers",
+      "aiScore": -0.31
+    },
+    {
+      "title": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+      "aiScore": -1.3
+    },
+    {
+      "title": "Floor Sanders and Finishers",
+      "aiScore": -1.75
+    },
+    {
+      "title": "Glaziers",
+      "aiScore": -1.39
+    },
+    {
+      "title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+      "aiScore": -0.85
+    },
+    {
+      "title": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+      "aiScore": -1.94
+    },
+    {
+      "title": "Helpers--Carpenters",
+      "aiScore": -1.43
+    },
+    {
+      "title": "Helpers--Electricians",
+      "aiScore": -1.51
+    },
+    {
+      "title": "Helpers--Installation, Maintenance, and Repair Workers",
+      "aiScore": -1.35
+    },
+    {
+      "title": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+      "aiScore": -2.04
+    },
+    {
+      "title": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+      "aiScore": -1.68
+    },
+    {
+      "title": "Helpers--Roofers",
+      "aiScore": -1.9
+    },
+    {
+      "title": "Insulation Workers, Floor, Ceiling, and Wall",
+      "aiScore": -1.62
+    },
+    {
+      "title": "Insulation Workers, Mechanical",
+      "aiScore": -1.27
+    },
+    {
+      "title": "Mechanical Door Repairers",
+      "aiScore": -1.38
+    },
+    {
+      "title": "Millwrights",
+      "aiScore": -1.27
+    },
+    {
+      "title": "Operating Engineers and Other Construction Equipment Operators",
+      "aiScore": -0.88
+    },
+    {
+      "title": "Painters, Construction and Maintenance",
+      "aiScore": -1.59
+    },
+    {
+      "title": "Paving, Surfacing, and Tamping Equipment Operators",
+      "aiScore": -1.18
+    },
+    {
+      "title": "Pile-Driver Operators",
+      "aiScore": -1.22
+    },
+    {
+      "title": "Pipelayers",
+      "aiScore": -1.23
+    },
+    {
+      "title": "Plasterers and Stucco Masons",
+      "aiScore": -1.76
+    },
+    {
+      "title": "Plumbers, Pipefitters, and Steamfitters",
+      "aiScore": -1.12
+    },
+    {
+      "title": "Reinforcing Iron and Rebar Workers",
+      "aiScore": -1.97
+    },
+    {
+      "title": "Riggers",
+      "aiScore": -1.22
+    },
+    {
+      "title": "Roofers",
+      "aiScore": -1.75
+    },
+    {
+      "title": "Segmental Pavers",
+      "aiScore": -0.98
+    },
+    {
+      "title": "Sheet Metal Workers",
+      "aiScore": -1.17
+    },
+    {
+      "title": "Solar Photovoltaic Installers",
+      "aiScore": -0.94
+    },
+    {
+      "title": "Stonemasons",
+      "aiScore": -1.71
+    },
+    {
+      "title": "Structural Iron and Steel Workers",
+      "aiScore": -1.78
+    },
+    {
+      "title": "Tapers",
+      "aiScore": -1.54
+    },
+    {
+      "title": "Terrazzo Workers and Finishers",
+      "aiScore": -1.78
+    },
+    {
+      "title": "Tile and Marble Setters",
+      "aiScore": -1.23
+    }
+  ],
+  "Educational Services": [
+    {
+      "title": "Adult Literacy, Remedial Education, and GED Teachers and Instructors",
+      "aiScore": 1.35
+    },
+    {
+      "title": "Agricultural Sciences Teachers, Postsecondary",
+      "aiScore": 0.75
+    },
+    {
+      "title": "Animal Scientists",
+      "aiScore": 1.04
+    },
+    {
+      "title": "Anthropology and Archeology Teachers, Postsecondary",
+      "aiScore": 1.32
+    },
+    {
+      "title": "Architecture Teachers, Postsecondary",
+      "aiScore": 1.22
+    },
+    {
+      "title": "Area, Ethnic, and Cultural Studies Teachers, Postsecondary",
+      "aiScore": 1.31
+    },
+    {
+      "title": "Art, Drama, and Music Teachers, Postsecondary",
+      "aiScore": 0.76
+    },
+    {
+      "title": "Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",
+      "aiScore": 1.31
+    },
+    {
+      "title": "Biological Science Teachers, Postsecondary",
+      "aiScore": 1.23
+    },
+    {
+      "title": "Bus Drivers, School",
+      "aiScore": -0.3
+    },
+    {
+      "title": "Business Teachers, Postsecondary",
+      "aiScore": 1.35
+    },
+    {
+      "title": "Chemistry Teachers, Postsecondary",
+      "aiScore": 1.33
+    },
+    {
+      "title": "Choreographers",
+      "aiScore": -1.58
+    },
+    {
+      "title": "Coaches and Scouts",
+      "aiScore": 0.12
+    },
+    {
+      "title": "Communications Teachers, Postsecondary",
+      "aiScore": 1.35
+    },
+    {
+      "title": "Computer Science Teachers, Postsecondary",
+      "aiScore": 1.28
+    },
+    {
+      "title": "Criminal Justice and Law Enforcement Teachers, Postsecondary",
+      "aiScore": 1.39
+    },
+    {
+      "title": "Economics Teachers, Postsecondary",
+      "aiScore": 1.32
+    },
+    {
+      "title": "Education Administrators, All Other",
+      "aiScore": 0.35
+    },
+    {
+      "title": "Education Administrators, Elementary and Secondary School",
+      "aiScore": 1.05
+    },
+    {
+      "title": "Education Administrators, Postsecondary",
+      "aiScore": 1.46
+    },
+    {
+      "title": "Education Teachers, Postsecondary",
+      "aiScore": 1.19
+    },
+    {
+      "title": "Educational, Vocational, and School Counselors",
+      "aiScore": 0.97
+    },
+    {
+      "title": "Elementary School Teachers, Except Special Education",
+      "aiScore": 0.89
+    },
+    {
+      "title": "Engineering Teachers, Postsecondary",
+      "aiScore": 1.35
+    },
+    {
+      "title": "English Language and Literature Teachers, Postsecondary",
+      "aiScore": 1.42
+    },
+    {
+      "title": "Environmental Science Teachers, Postsecondary",
+      "aiScore": 1.35
+    },
+    {
+      "title": "Executive Secretaries and Administrative Assistants",
+      "aiScore": 1.08
+    },
+    {
+      "title": "Farm and Home Management Advisors",
+      "aiScore": 0.86
+    },
+    {
+      "title": "Foreign Language and Literature Teachers, Postsecondary",
+      "aiScore": 1.33
+    },
+    {
+      "title": "Forestry and Conservation Science Teachers, Postsecondary",
+      "aiScore": 1.26
+    },
+    {
+      "title": "Geography Teachers, Postsecondary",
+      "aiScore": 1.32
+    },
+    {
+      "title": "Health Specialties Teachers, Postsecondary",
+      "aiScore": 0.92
+    },
+    {
+      "title": "History Teachers, Postsecondary",
+      "aiScore": 1.44
+    },
+    {
+      "title": "Home Economics Teachers, Postsecondary",
+      "aiScore": 1.21
+    },
+    {
+      "title": "Instructional Coordinators",
+      "aiScore": 1.3
+    },
+    {
+      "title": "Kindergarten Teachers, Except Special Education",
+      "aiScore": 0.36
+    },
+    {
+      "title": "Law Teachers, Postsecondary",
+      "aiScore": 1.36
+    },
+    {
+      "title": "Library Science Teachers, Postsecondary",
+      "aiScore": 1.39
+    },
+    {
+      "title": "Life, Physical, and Social Science Technicians, All Other",
+      "aiScore": 0.45
+    },
+    {
+      "title": "Loan Counselors",
+      "aiScore": 1.39
+    },
+    {
+      "title": "Mathematical Science Teachers, Postsecondary",
+      "aiScore": 1.34
+    },
+    {
+      "title": "Middle School Teachers, Except Special and Vocational Education",
+      "aiScore": 1.29
+    },
+    {
+      "title": "Models",
+      "aiScore": -1.12
+    },
+    {
+      "title": "Nursing Instructors and Teachers, Postsecondary",
+      "aiScore": 0.52
+    },
+    {
+      "title": "Office Clerks, General",
+      "aiScore": 0.99
+    },
+    {
+      "title": "Philosophy and Religion Teachers, Postsecondary",
+      "aiScore": 1.36
+    },
+    {
+      "title": "Physics Teachers, Postsecondary",
+      "aiScore": 1.04
+    },
+    {
+      "title": "Political Science Teachers, Postsecondary",
+      "aiScore": 1.37
+    },
+    {
+      "title": "Protective Service Workers, All Other",
+      "aiScore": 0.08
+    },
+    {
+      "title": "Psychology Teachers, Postsecondary",
+      "aiScore": 1.33
+    },
+    {
+      "title": "Recreation and Fitness Studies Teachers, Postsecondary",
+      "aiScore": 1.16
+    },
+    {
+      "title": "Secondary School Teachers, Except Special and Vocational Education",
+      "aiScore": 1.19
+    },
+    {
+      "title": "Secretaries, Except Legal, Medical, and Executive",
+      "aiScore": 1.1
+    },
+    {
+      "title": "Self-Enrichment Education Teachers",
+      "aiScore": 0.53
+    },
+    {
+      "title": "Social Science Research Assistants",
+      "aiScore": 1.2
+    },
+    {
+      "title": "Social Work Teachers, Postsecondary",
+      "aiScore": 1.35
+    },
+    {
+      "title": "Sociology Teachers, Postsecondary",
+      "aiScore": 1.35
+    },
+    {
+      "title": "Special Education Teachers, All Other",
+      "aiScore": -0.66
+    },
+    {
+      "title": "Special Education Teachers, Kindergarten and Elementary School",
+      "aiScore": 0.74
+    },
+    {
+      "title": "Special Education Teachers, Middle School",
+      "aiScore": 1.3
+    },
+    {
+      "title": "Special Education Teachers, Preschool",
+      "aiScore": 0.38
+    },
+    {
+      "title": "Special Education Teachers, Secondary School",
+      "aiScore": 0.96
+    },
+    {
+      "title": "Teachers and Instructors, All Other",
+      "aiScore": 1.33
+    },
+    {
+      "title": "Training and Development Specialists",
+      "aiScore": 1.2
+    },
+    {
+      "title": "Vocational Education Teachers, Middle School",
+      "aiScore": 0.52
+    },
+    {
+      "title": "Vocational Education Teachers, Postsecondary",
+      "aiScore": 0.16
+    },
+    {
+      "title": "Vocational Education Teachers, Secondary School",
+      "aiScore": 0.37
+    }
+  ],
+  "Finance and Insurance": [
+    {
+      "title": "Actuaries",
+      "aiScore": 1.52
+    },
+    {
+      "title": "Brokerage Clerks",
+      "aiScore": 1.14
+    },
+    {
+      "title": "Claims Adjusters, Examiners, and Investigators",
+      "aiScore": 1.27
+    },
+    {
+      "title": "Compensation, Benefits, and Job Analysis Specialists",
+      "aiScore": 1.44
+    },
+    {
+      "title": "Credit Analysts",
+      "aiScore": 1.35
+    },
+    {
+      "title": "Credit Authorizers, Checkers, and Clerks",
+      "aiScore": 1.44
+    },
+    {
+      "title": "Customer Service Representatives",
+      "aiScore": 0.96
+    },
+    {
+      "title": "Financial Analysts",
+      "aiScore": 1.38
+    },
+    {
+      "title": "Financial Examiners",
+      "aiScore": 1.53
+    },
+    {
+      "title": "Financial Managers",
+      "aiScore": 1.45
+    },
+    {
+      "title": "Financial Specialists, All Other",
+      "aiScore": 1.36
+    },
+    {
+      "title": "Insurance Appraisers, Auto Damage",
+      "aiScore": 0.66
+    },
+    {
+      "title": "Insurance Claims and Policy Processing Clerks",
+      "aiScore": 1.24
+    },
+    {
+      "title": "Insurance Sales Agents",
+      "aiScore": 1.34
+    },
+    {
+      "title": "Insurance Underwriters",
+      "aiScore": 1.33
+    },
+    {
+      "title": "Loan Interviewers and Clerks",
+      "aiScore": 1.36
+    },
+    {
+      "title": "Loan Officers",
+      "aiScore": 1.39
+    },
+    {
+      "title": "New Accounts Clerks",
+      "aiScore": 1.17
+    },
+    {
+      "title": "Operations Research Analysts",
+      "aiScore": 1.4
+    },
+    {
+      "title": "Personal Financial Advisors",
+      "aiScore": 1.4
+    },
+    {
+      "title": "Securities, Commodities, and Financial Services Sales Agents",
+      "aiScore": 1.26
+    },
+    {
+      "title": "Tellers",
+      "aiScore": 0.47
+    }
+  ],
+  "Government": [
+    {
+      "title": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+      "aiScore": 1.37
+    },
+    {
+      "title": "Administrative Services Managers",
+      "aiScore": 0.74
+    },
+    {
+      "title": "Agricultural Engineers",
+      "aiScore": 0.94
+    },
+    {
+      "title": "Agricultural Inspectors",
+      "aiScore": 0.17
+    },
+    {
+      "title": "Air Traffic Controllers",
+      "aiScore": 1.15
+    },
+    {
+      "title": "Animal Control Workers",
+      "aiScore": -0.59
+    },
+    {
+      "title": "Appraisers and Assessors of Real Estate",
+      "aiScore": 0.84
+    },
+    {
+      "title": "Arbitrators, Mediators, and Conciliators",
+      "aiScore": 1.43
+    },
+    {
+      "title": "Archivists",
+      "aiScore": 0.68
+    },
+    {
+      "title": "Atmospheric and Space Scientists",
+      "aiScore": 1.37
+    },
+    {
+      "title": "Bailiffs",
+      "aiScore": -0.51
+    },
+    {
+      "title": "Bridge and Lock Tenders",
+      "aiScore": -0.63
+    },
+    {
+      "title": "Budget Analysts",
+      "aiScore": 1.5
+    },
+    {
+      "title": "Bus Drivers, Transit and Intercity",
+      "aiScore": -0.61
+    },
+    {
+      "title": "Business Operations Specialists, All Other",
+      "aiScore": 1.05
+    },
+    {
+      "title": "Cartographers and Photogrammetrists",
+      "aiScore": 0.82
+    },
+    {
+      "title": "Child, Family, and School Social Workers",
+      "aiScore": 0.78
+    },
+    {
+      "title": "Compliance Officers, Except Agriculture, Construction, Health and Safety, and Transportation",
+      "aiScore": 0.7
+    },
+    {
+      "title": "Conservation Scientists",
+      "aiScore": 0.07
+    },
+    {
+      "title": "Construction and Building Inspectors",
+      "aiScore": 0.29
+    },
+    {
+      "title": "Correctional Officers and Jailers",
+      "aiScore": -0.89
+    },
+    {
+      "title": "Court, Municipal, and License Clerks",
+      "aiScore": 1.17
+    },
+    {
+      "title": "Detectives and Criminal Investigators",
+      "aiScore": 0.23
+    },
+    {
+      "title": "Economists",
+      "aiScore": 1.4
+    },
+    {
+      "title": "Eligibility Interviewers, Government Programs",
+      "aiScore": 1.23
+    },
+    {
+      "title": "Emergency Management Directors",
+      "aiScore": 1.03
+    },
+    {
+      "title": "Engineers, All Other",
+      "aiScore": 0.79
+    },
+    {
+      "title": "Environmental Scientists and Specialists, Including Health",
+      "aiScore": 1.01
+    },
+    {
+      "title": "Epidemiologists",
+      "aiScore": 1.44
+    },
+    {
+      "title": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+      "aiScore": -0.77
+    },
+    {
+      "title": "File Clerks",
+      "aiScore": 0.28
+    },
+    {
+      "title": "Fire Fighters",
+      "aiScore": -1.32
+    },
+    {
+      "title": "Fire Inspectors and Investigators",
+      "aiScore": 0.06
+    },
+    {
+      "title": "First-Line Supervisors/Managers of Correctional Officers",
+      "aiScore": -0.56
+    },
+    {
+      "title": "First-Line Supervisors/Managers of Fire Fighting and Prevention Workers",
+      "aiScore": -0.59
+    },
+    {
+      "title": "First-Line Supervisors/Managers of Police and Detectives",
+      "aiScore": -0.19
+    },
+    {
+      "title": "Fish and Game Wardens",
+      "aiScore": -0.46
+    },
+    {
+      "title": "Forensic Science Technicians",
+      "aiScore": 0.24
+    },
+    {
+      "title": "Forest Fire Inspectors and Prevention Specialists",
+      "aiScore": -0.21
+    },
+    {
+      "title": "Forest and Conservation Technicians",
+      "aiScore": -0.67
+    },
+    {
+      "title": "Forest and Conservation Workers",
+      "aiScore": -1.06
+    },
+    {
+      "title": "Foresters",
+      "aiScore": -0.18
+    },
+    {
+      "title": "Gaming Cage Workers",
+      "aiScore": 0.4
+    },
+    {
+      "title": "Gaming Change Persons and Booth Cashiers",
+      "aiScore": -0.05
+    },
+    {
+      "title": "Gaming Managers",
+      "aiScore": 0.83
+    },
+    {
+      "title": "Gaming Surveillance Officers and Gaming Investigators",
+      "aiScore": 0.73
+    },
+    {
+      "title": "Geographers",
+      "aiScore": 1.44
+    },
+    {
+      "title": "Highway Maintenance Workers",
+      "aiScore": -1.28
+    },
+    {
+      "title": "Historians",
+      "aiScore": 1.1
+    },
+    {
+      "title": "Human Resources Assistants, Except Payroll and Timekeeping",
+      "aiScore": 1.35
+    },
+    {
+      "title": "Hydrologists",
+      "aiScore": 0.64
+    },
+    {
+      "title": "Judges, Magistrate Judges, and Magistrates",
+      "aiScore": 1.5
+    },
+    {
+      "title": "Judicial Law Clerks",
+      "aiScore": 1.46
+    },
+    {
+      "title": "Library Assistants, Clerical",
+      "aiScore": 0.2
+    },
+    {
+      "title": "Library Technicians",
+      "aiScore": 0.04
+    },
+    {
+      "title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+      "aiScore": -0.47
+    },
+    {
+      "title": "Managers, All Other",
+      "aiScore": 0.96
+    },
+    {
+      "title": "Mathematicians",
+      "aiScore": 1.47
+    },
+    {
+      "title": "Meter Readers, Utilities",
+      "aiScore": -0.97
+    },
+    {
+      "title": "Occupational Health and Safety Specialists",
+      "aiScore": 0.83
+    },
+    {
+      "title": "Parking Enforcement Workers",
+      "aiScore": -0.62
+    },
+    {
+      "title": "Physical Scientists, All Other",
+      "aiScore": 1.14
+    },
+    {
+      "title": "Police and Sheriff's Patrol Officers",
+      "aiScore": -0.67
+    },
+    {
+      "title": "Police, Fire, and Ambulance Dispatchers",
+      "aiScore": 0.91
+    },
+    {
+      "title": "Political Scientists",
+      "aiScore": 1.42
+    },
+    {
+      "title": "Postal Service Clerks",
+      "aiScore": -0.52
+    },
+    {
+      "title": "Postal Service Mail Carriers",
+      "aiScore": -1.06
+    },
+    {
+      "title": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+      "aiScore": -1.19
+    },
+    {
+      "title": "Postmasters and Mail Superintendents",
+      "aiScore": 0.82
+    },
+    {
+      "title": "Probation Officers and Correctional Treatment Specialists",
+      "aiScore": 0.53
+    },
+    {
+      "title": "Procurement Clerks",
+      "aiScore": 1.49
+    },
+    {
+      "title": "Psychologists, All Other",
+      "aiScore": 1.39
+    },
+    {
+      "title": "Recreation Workers",
+      "aiScore": -0.24
+    },
+    {
+      "title": "Social Scientists and Related Workers, All Other",
+      "aiScore": 1.33
+    },
+    {
+      "title": "Stationary Engineers and Boiler Operators",
+      "aiScore": -0.5
+    },
+    {
+      "title": "Subway and Streetcar Operators",
+      "aiScore": -0.62
+    },
+    {
+      "title": "Tax Examiners, Collectors, and Revenue Agents",
+      "aiScore": 1.37
+    },
+    {
+      "title": "Traffic Technicians",
+      "aiScore": 0.4
+    },
+    {
+      "title": "Transit and Railroad Police",
+      "aiScore": -0.82
+    },
+    {
+      "title": "Transportation Inspectors",
+      "aiScore": -0.18
+    },
+    {
+      "title": "Transportation Security Screeners",
+      "aiScore": -0.51
+    },
+    {
+      "title": "Urban and Regional Planners",
+      "aiScore": 1.23
+    },
+    {
+      "title": "Water and Liquid Waste Treatment Plant and System Operators",
+      "aiScore": -0.45
+    },
+    {
+      "title": "Word Processors and Typists",
+      "aiScore": 0.62
+    },
+    {
+      "title": "Zoologists and Wildlife Biologists",
+      "aiScore": 0.32
+    }
+  ],
+  "Health Care and Social Assistance": [
+    {
+      "title": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+      "aiScore": -0.83
+    },
+    {
+      "title": "Anesthesiologists",
+      "aiScore": 0.23
+    },
+    {
+      "title": "Athletic Trainers",
+      "aiScore": -0.33
+    },
+    {
+      "title": "Audiologists",
+      "aiScore": 0.63
+    },
+    {
+      "title": "Billing and Posting Clerks and Machine Operators",
+      "aiScore": 1.33
+    },
+    {
+      "title": "Cardiovascular Technologists and Technicians",
+      "aiScore": -0.09
+    },
+    {
+      "title": "Child Care Workers",
+      "aiScore": -0.38
+    },
+    {
+      "title": "Chiropractors",
+      "aiScore": -0.19
+    },
+    {
+      "title": "Community Health Workers",
+      "aiScore": 0.04
+    },
+    {
+      "title": "Cooks, Institution and Cafeteria",
+      "aiScore": -0.64
+    },
+    {
+      "title": "Couriers and Messengers",
+      "aiScore": -0.96
+    },
+    {
+      "title": "Dental Assistants",
+      "aiScore": -0.53
+    },
+    {
+      "title": "Dental Hygienists",
+      "aiScore": -0.42
+    },
+    {
+      "title": "Dentists, General",
+      "aiScore": -0.18
+    },
+    {
+      "title": "Diagnostic Medical Sonographers",
+      "aiScore": -0.26
+    },
+    {
+      "title": "Dietetic Technicians",
+      "aiScore": -0.13
+    },
+    {
+      "title": "Dietitians and Nutritionists",
+      "aiScore": 1.34
+    },
+    {
+      "title": "Education Administrators, Preschool and Child Care Center/Program",
+      "aiScore": 0.84
+    },
+    {
+      "title": "Exercise Physiologists",
+      "aiScore": -0.03
+    },
+    {
+      "title": "First-Line Supervisors/Managers of Office and Administrative Support Workers",
+      "aiScore": 1.04
+    },
+    {
+      "title": "Food Servers, Nonrestaurant",
+      "aiScore": -0.73
+    },
+    {
+      "title": "Genetic Counselors",
+      "aiScore": 1.53
+    },
+    {
+      "title": "Health Educators",
+      "aiScore": 0.69
+    },
+    {
+      "title": "Health Technologists and Technicians, All Other",
+      "aiScore": -0.28
+    },
+    {
+      "title": "Healthcare Practitioners and Technical Workers, All Other",
+      "aiScore": 0.23
+    },
+    {
+      "title": "Healthcare Support Workers, All Other",
+      "aiScore": 0.17
+    },
+    {
+      "title": "Home Health Aides",
+      "aiScore": -0.64
+    },
+    {
+      "title": "Interviewers, Except Eligibility and Loan",
+      "aiScore": 1.3
+    },
+    {
+      "title": "Licensed Practical and Licensed Vocational Nurses",
+      "aiScore": -0.51
+    },
+    {
+      "title": "Magnetic Resonance Imaging Technologists",
+      "aiScore": -0.07
+    },
+    {
+      "title": "Marriage and Family Therapists",
+      "aiScore": 1.37
+    },
+    {
+      "title": "Medical Assistants",
+      "aiScore": 0.15
+    },
+    {
+      "title": "Medical Equipment Preparers",
+      "aiScore": -0.73
+    },
+    {
+      "title": "Medical Secretaries",
+      "aiScore": 1.22
+    },
+    {
+      "title": "Medical Transcriptionists",
+      "aiScore": 1.06
+    },
+    {
+      "title": "Medical and Clinical Laboratory Technicians",
+      "aiScore": -0.13
+    },
+    {
+      "title": "Medical and Clinical Laboratory Technologists",
+      "aiScore": 0.28
+    },
+    {
+      "title": "Medical and Health Services Managers",
+      "aiScore": 1.26
+    },
+    {
+      "title": "Medical and Public Health Social Workers",
+      "aiScore": 0.93
+    },
+    {
+      "title": "Mental Health Counselors",
+      "aiScore": 1.34
+    },
+    {
+      "title": "Mental Health and Substance Abuse Social Workers",
+      "aiScore": 1.12
+    },
+    {
+      "title": "Nuclear Medicine Technologists",
+      "aiScore": 0.09
+    },
+    {
+      "title": "Nurse Anesthetists",
+      "aiScore": 0.24
+    },
+    {
+      "title": "Nurse Midwives",
+      "aiScore": 0.2
+    },
+    {
+      "title": "Nurse Practitioners",
+      "aiScore": 0.19
+    },
+    {
+      "title": "Nursing Assistants",
+      "aiScore": -0.9
+    },
+    {
+      "title": "Obstetricians and Gynecologists",
+      "aiScore": 0.28
+    },
+    {
+      "title": "Occupational Therapist Aides",
+      "aiScore": -0.77
+    },
+    {
+      "title": "Occupational Therapist Assistants",
+      "aiScore": -0.32
+    },
+    {
+      "title": "Occupational Therapists",
+      "aiScore": 0.12
+    },
+    {
+      "title": "Ophthalmic Medical Technicians",
+      "aiScore": 0.08
+    },
+    {
+      "title": "Opticians, Dispensing",
+      "aiScore": 0.1
+    },
+    {
+      "title": "Optometrists",
+      "aiScore": 0.5
+    },
+    {
+      "title": "Oral and Maxillofacial Surgeons",
+      "aiScore": -0.24
+    },
+    {
+      "title": "Orderlies",
+      "aiScore": -1.68
+    },
+    {
+      "title": "Orthodontists",
+      "aiScore": 0.16
+    },
+    {
+      "title": "Orthotists and Prosthetists",
+      "aiScore": 0.07
+    },
+    {
+      "title": "Pediatricians, General",
+      "aiScore": 1.13
+    },
+    {
+      "title": "Phlebotomists",
+      "aiScore": -0.28
+    },
+    {
+      "title": "Physical Therapist Aides",
+      "aiScore": -0.88
+    },
+    {
+      "title": "Physical Therapist Assistants",
+      "aiScore": -0.53
+    },
+    {
+      "title": "Physical Therapists",
+      "aiScore": -0.36
+    },
+    {
+      "title": "Physician Assistants",
+      "aiScore": 0.11
+    },
+    {
+      "title": "Podiatrists",
+      "aiScore": 0.63
+    },
+    {
+      "title": "Preschool Teachers, Except Special Education",
+      "aiScore": 0.03
+    },
+    {
+      "title": "Prosthodontists",
+      "aiScore": -0.16
+    },
+    {
+      "title": "Psychiatric Aides",
+      "aiScore": -0.5
+    },
+    {
+      "title": "Psychiatric Technicians",
+      "aiScore": -0.22
+    },
+    {
+      "title": "Psychiatrists",
+      "aiScore": 1.28
+    },
+    {
+      "title": "Radiation Therapists",
+      "aiScore": -0.22
+    },
+    {
+      "title": "Radiologic Technologists and Technicians",
+      "aiScore": -0.56
+    },
+    {
+      "title": "Receptionists and Information Clerks",
+      "aiScore": 1.01
+    },
+    {
+      "title": "Recreational Therapists",
+      "aiScore": 0.22
+    },
+    {
+      "title": "Registered Nurses",
+      "aiScore": 0.23
+    },
+    {
+      "title": "Rehabilitation Counselors",
+      "aiScore": 0.5
+    },
+    {
+      "title": "Residential Advisors",
+      "aiScore": 0.47
+    },
+    {
+      "title": "Respiratory Therapists",
+      "aiScore": -0.19
+    },
+    {
+      "title": "Social and Community Service Managers",
+      "aiScore": 1.16
+    },
+    {
+      "title": "Social and Human Service Assistants",
+      "aiScore": 0.47
+    },
+    {
+      "title": "Speech-Language Pathologists",
+      "aiScore": 1.15
+    },
+    {
+      "title": "Substance Abuse and Behavioral Disorder Counselors",
+      "aiScore": 1.03
+    },
+    {
+      "title": "Surgical Technologists",
+      "aiScore": -0.48
+    },
+    {
+      "title": "Switchboard Operators, Including Answering Service",
+      "aiScore": 0.98
+    },
+    {
+      "title": "Telephone Operators",
+      "aiScore": 1.02
+    }
+  ],
+  "Information": [
+    {
+      "title": "Audio and Video Equipment Technicians",
+      "aiScore": -0.01
+    },
+    {
+      "title": "Broadcast Technicians",
+      "aiScore": 0.12
+    },
+    {
+      "title": "Camera Operators, Television, Video, and Motion Picture",
+      "aiScore": -0.45
+    },
+    {
+      "title": "Camera and Photographic Equipment Repairers",
+      "aiScore": 0.05
+    },
+    {
+      "title": "Desktop Publishers",
+      "aiScore": 0.34
+    },
+    {
+      "title": "Editors",
+      "aiScore": 1.13
+    },
+    {
+      "title": "Film and Video Editors",
+      "aiScore": 0.99
+    },
+    {
+      "title": "Motion Picture Projectionists",
+      "aiScore": -0.38
+    },
+    {
+      "title": "Multi-Media Artists and Animators",
+      "aiScore": 0.71
+    },
+    {
+      "title": "Producers and Directors",
+      "aiScore": 0.94
+    },
+    {
+      "title": "Proofreaders and Copy Markers",
+      "aiScore": 1.29
+    },
+    {
+      "title": "Radio Mechanics",
+      "aiScore": -0.63
+    },
+    {
+      "title": "Radio and Television Announcers",
+      "aiScore": 0.85
+    },
+    {
+      "title": "Sound Engineering Technicians",
+      "aiScore": 0.47
+    },
+    {
+      "title": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+      "aiScore": -0.85
+    },
+    {
+      "title": "Telecommunications Line Installers and Repairers",
+      "aiScore": -1.08
+    },
+    {
+      "title": "Ushers, Lobby Attendants, and Ticket Takers",
+      "aiScore": -0.24
+    }
+  ],
+  "Management of Companies and Enterprises": [
+    {
+      "title": "Compensation and Benefits Managers",
+      "aiScore": 1.3
+    },
+    {
+      "title": "Training and Development Managers",
+      "aiScore": 1.28
+    }
+  ],
+  "Manufacturing": [
+    {
+      "title": "Aerospace Engineering and Operations Technicians",
+      "aiScore": 0.39
+    },
+    {
+      "title": "Aerospace Engineers",
+      "aiScore": 1.34
+    },
+    {
+      "title": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+      "aiScore": -0.87
+    },
+    {
+      "title": "Avionics Technicians",
+      "aiScore": -0.17
+    },
+    {
+      "title": "Bakers",
+      "aiScore": -0.39
+    },
+    {
+      "title": "Biomedical Engineers",
+      "aiScore": 0.99
+    },
+    {
+      "title": "Cabinetmakers and Bench Carpenters",
+      "aiScore": -1.33
+    },
+    {
+      "title": "Cementing and Gluing Machine Operators and Tenders",
+      "aiScore": -1.31
+    },
+    {
+      "title": "Chemical Engineers",
+      "aiScore": 1.34
+    },
+    {
+      "title": "Chemical Equipment Operators and Tenders",
+      "aiScore": -0.51
+    },
+    {
+      "title": "Chemical Plant and System Operators",
+      "aiScore": -0.38
+    },
+    {
+      "title": "Chemical Technicians",
+      "aiScore": 0.06
+    },
+    {
+      "title": "Chemists",
+      "aiScore": 0.5
+    },
+    {
+      "title": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+      "aiScore": -1.14
+    },
+    {
+      "title": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+      "aiScore": -1.12
+    },
+    {
+      "title": "Coil Winders, Tapers, and Finishers",
+      "aiScore": -0.83
+    },
+    {
+      "title": "Commercial and Industrial Designers",
+      "aiScore": 0.87
+    },
+    {
+      "title": "Cooling and Freezing Equipment Operators and Tenders",
+      "aiScore": -0.96
+    },
+    {
+      "title": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+      "aiScore": -1.04
+    },
+    {
+      "title": "Cutters and Trimmers, Hand",
+      "aiScore": -0.95
+    },
+    {
+      "title": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+      "aiScore": -1.08
+    },
+    {
+      "title": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "aiScore": -1.04
+    },
+    {
+      "title": "Dental Laboratory Technicians",
+      "aiScore": 0.0
+    },
+    {
+      "title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "aiScore": -0.76
+    },
+    {
+      "title": "Electrical Engineers",
+      "aiScore": 1.13
+    },
+    {
+      "title": "Electrical and Electronic Engineering Technicians",
+      "aiScore": 0.35
+    },
+    {
+      "title": "Electrical and Electronic Equipment Assemblers",
+      "aiScore": -0.62
+    },
+    {
+      "title": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+      "aiScore": -0.46
+    },
+    {
+      "title": "Electro-Mechanical Technicians",
+      "aiScore": -0.3
+    },
+    {
+      "title": "Electromechanical Equipment Assemblers",
+      "aiScore": -0.5
+    },
+    {
+      "title": "Electronics Engineers, Except Computer",
+      "aiScore": 0.67
+    },
+    {
+      "title": "Engine and Other Machine Assemblers",
+      "aiScore": -0.96
+    },
+    {
+      "title": "Etchers and Engravers",
+      "aiScore": -0.64
+    },
+    {
+      "title": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "aiScore": -1.23
+    },
+    {
+      "title": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+      "aiScore": -0.86
+    },
+    {
+      "title": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+      "aiScore": -1.04
+    },
+    {
+      "title": "Fabric and Apparel Patternmakers",
+      "aiScore": -0.08
+    },
+    {
+      "title": "Fiberglass Laminators and Fabricators",
+      "aiScore": -1.22
+    },
+    {
+      "title": "First-Line Supervisors/Managers of Production and Operating Workers",
+      "aiScore": -0.08
+    },
+    {
+      "title": "Food Batchmakers",
+      "aiScore": -0.38
+    },
+    {
+      "title": "Food Cooking Machine Operators and Tenders",
+      "aiScore": -0.56
+    },
+    {
+      "title": "Food Scientists and Technologists",
+      "aiScore": 0.79
+    },
+    {
+      "title": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+      "aiScore": -0.76
+    },
+    {
+      "title": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "aiScore": -0.8
+    },
+    {
+      "title": "Foundry Mold and Coremakers",
+      "aiScore": -1.74
+    },
+    {
+      "title": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+      "aiScore": -0.96
+    },
+    {
+      "title": "Furniture Finishers",
+      "aiScore": -1.2
+    },
+    {
+      "title": "Grinding and Polishing Workers, Hand",
+      "aiScore": -1.15
+    },
+    {
+      "title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "aiScore": -0.99
+    },
+    {
+      "title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "aiScore": 0.99
+    },
+    {
+      "title": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+      "aiScore": -1.09
+    },
+    {
+      "title": "Helpers--Production Workers",
+      "aiScore": -1.41
+    },
+    {
+      "title": "Hoist and Winch Operators",
+      "aiScore": -0.98
+    },
+    {
+      "title": "Industrial Engineering Technicians",
+      "aiScore": 0.61
+    },
+    {
+      "title": "Industrial Engineers",
+      "aiScore": 1.14
+    },
+    {
+      "title": "Industrial Machinery Mechanics",
+      "aiScore": -1.13
+    },
+    {
+      "title": "Industrial Production Managers",
+      "aiScore": 0.51
+    },
+    {
+      "title": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+      "aiScore": -0.03
+    },
+    {
+      "title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "aiScore": -1.07
+    },
+    {
+      "title": "Lay-Out Workers, Metal and Plastic",
+      "aiScore": -0.72
+    },
+    {
+      "title": "Log Graders and Scalers",
+      "aiScore": -0.48
+    },
+    {
+      "title": "Logisticians",
+      "aiScore": 1.3
+    },
+    {
+      "title": "Machine Feeders and Offbearers",
+      "aiScore": -1.04
+    },
+    {
+      "title": "Machinists",
+      "aiScore": -0.87
+    },
+    {
+      "title": "Maintenance Workers, Machinery",
+      "aiScore": -0.97
+    },
+    {
+      "title": "Marine Engineers and Naval Architects",
+      "aiScore": 0.55
+    },
+    {
+      "title": "Materials Engineers",
+      "aiScore": 1.04
+    },
+    {
+      "title": "Materials Scientists",
+      "aiScore": 1.03
+    },
+    {
+      "title": "Meat, Poultry, and Fish Cutters and Trimmers",
+      "aiScore": -1.11
+    },
+    {
+      "title": "Mechanical Drafters",
+      "aiScore": 0.84
+    },
+    {
+      "title": "Mechanical Engineering Technicians",
+      "aiScore": -0.12
+    },
+    {
+      "title": "Mechanical Engineers",
+      "aiScore": 1.0
+    },
+    {
+      "title": "Medical Appliance Technicians",
+      "aiScore": -0.49
+    },
+    {
+      "title": "Metal-Refining Furnace Operators and Tenders",
+      "aiScore": -1.17
+    },
+    {
+      "title": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "aiScore": -0.87
+    },
+    {
+      "title": "Mixing and Blending Machine Setters, Operators, and Tenders",
+      "aiScore": -0.82
+    },
+    {
+      "title": "Model Makers, Metal and Plastic",
+      "aiScore": -0.74
+    },
+    {
+      "title": "Model Makers, Wood",
+      "aiScore": -0.73
+    },
+    {
+      "title": "Molders, Shapers, and Casters, Except Metal and Plastic",
+      "aiScore": -1.18
+    },
+    {
+      "title": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "aiScore": -1.15
+    },
+    {
+      "title": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "aiScore": -0.74
+    },
+    {
+      "title": "Ophthalmic Laboratory Technicians",
+      "aiScore": -0.6
+    },
+    {
+      "title": "Packaging and Filling Machine Operators and Tenders",
+      "aiScore": -0.98
+    },
+    {
+      "title": "Painting, Coating, and Decorating Workers",
+      "aiScore": -0.97
+    },
+    {
+      "title": "Paper Goods Machine Setters, Operators, and Tenders",
+      "aiScore": -0.87
+    },
+    {
+      "title": "Patternmakers, Metal and Plastic",
+      "aiScore": -0.61
+    },
+    {
+      "title": "Patternmakers, Wood",
+      "aiScore": -1.06
+    },
+    {
+      "title": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+      "aiScore": -0.37
+    },
+    {
+      "title": "Plant and System Operators, All Other",
+      "aiScore": -0.67
+    },
+    {
+      "title": "Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "aiScore": -0.9
+    },
+    {
+      "title": "Pourers and Casters, Metal",
+      "aiScore": -1.01
+    },
+    {
+      "title": "Prepress Technicians and Workers",
+      "aiScore": 0.41
+    },
+    {
+      "title": "Print Binding and Finishing Workers",
+      "aiScore": -0.91
+    },
+    {
+      "title": "Printing Press Operators",
+      "aiScore": -0.71
+    },
+    {
+      "title": "Production Workers, All Other",
+      "aiScore": -1.29
+    },
+    {
+      "title": "Production, Planning, and Expediting Clerks",
+      "aiScore": 0.7
+    },
+    {
+      "title": "Purchasing Agents and Buyers, Farm Products",
+      "aiScore": 0.77
+    },
+    {
+      "title": "Purchasing Agents, Except Wholesale, Retail, and Farm Products",
+      "aiScore": 1.51
+    },
+    {
+      "title": "Purchasing Managers",
+      "aiScore": 1.42
+    },
+    {
+      "title": "Refractory Materials Repairers, Except Brickmasons",
+      "aiScore": -1.24
+    },
+    {
+      "title": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "aiScore": -1.09
+    },
+    {
+      "title": "Sawing Machine Setters, Operators, and Tenders, Wood",
+      "aiScore": -1.17
+    },
+    {
+      "title": "Semiconductor Processors",
+      "aiScore": -0.64
+    },
+    {
+      "title": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+      "aiScore": -0.94
+    },
+    {
+      "title": "Sewers, Hand",
+      "aiScore": -0.6
+    },
+    {
+      "title": "Sewing Machine Operators",
+      "aiScore": -0.96
+    },
+    {
+      "title": "Shipping, Receiving, and Traffic Clerks",
+      "aiScore": -0.75
+    },
+    {
+      "title": "Shoe Machine Operators and Tenders",
+      "aiScore": -1.03
+    },
+    {
+      "title": "Shoe and Leather Workers and Repairers",
+      "aiScore": -0.99
+    },
+    {
+      "title": "Slaughterers and Meat Packers",
+      "aiScore": -1.83
+    },
+    {
+      "title": "Structural Metal Fabricators and Fitters",
+      "aiScore": -1.08
+    },
+    {
+      "title": "Team Assemblers",
+      "aiScore": -0.83
+    },
+    {
+      "title": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+      "aiScore": -0.86
+    },
+    {
+      "title": "Textile Cutting Machine Setters, Operators, and Tenders",
+      "aiScore": -1.02
+    },
+    {
+      "title": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+      "aiScore": -1.24
+    },
+    {
+      "title": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+      "aiScore": -1.39
+    },
+    {
+      "title": "Tire Builders",
+      "aiScore": -1.61
+    },
+    {
+      "title": "Tool Grinders, Filers, and Sharpeners",
+      "aiScore": -0.88
+    },
+    {
+      "title": "Tool and Die Makers",
+      "aiScore": -0.53
+    },
+    {
+      "title": "Upholsterers",
+      "aiScore": -1.31
+    },
+    {
+      "title": "Welders, Cutters, Solderers, and Brazers",
+      "aiScore": -1.2
+    },
+    {
+      "title": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+      "aiScore": -1.0
+    },
+    {
+      "title": "Wholesale and Retail Buyers, Except Farm Products",
+      "aiScore": 0.82
+    },
+    {
+      "title": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+      "aiScore": -1.13
+    }
+  ],
+  "Mining, Quarrying, and Oil and Gas Extraction": [
+    {
+      "title": "Continuous Mining Machine Operators",
+      "aiScore": -1.17
+    },
+    {
+      "title": "Derrick Operators, Oil and Gas",
+      "aiScore": -1.42
+    },
+    {
+      "title": "Dredge Operators",
+      "aiScore": -1.02
+    },
+    {
+      "title": "Helpers--Extraction Workers",
+      "aiScore": -1.54
+    },
+    {
+      "title": "Petroleum Engineers",
+      "aiScore": 1.25
+    },
+    {
+      "title": "Pump Operators, Except Wellhead Pumpers",
+      "aiScore": -0.84
+    },
+    {
+      "title": "Rock Splitters, Quarry",
+      "aiScore": -1.76
+    },
+    {
+      "title": "Roof Bolters, Mining",
+      "aiScore": -1.62
+    },
+    {
+      "title": "Rotary Drill Operators, Oil and Gas",
+      "aiScore": -0.77
+    },
+    {
+      "title": "Roustabouts, Oil and Gas",
+      "aiScore": -1.52
+    },
+    {
+      "title": "Service Unit Operators, Oil, Gas, and Mining",
+      "aiScore": -0.97
+    },
+    {
+      "title": "Wellhead Pumpers",
+      "aiScore": -1.09
+    }
+  ],
+  "Other Services (Except Public Administration)": [
+    {
+      "title": "Automotive Body and Related Repairers",
+      "aiScore": -1.18
+    },
+    {
+      "title": "Automotive Glass Installers and Repairers",
+      "aiScore": -1.2
+    },
+    {
+      "title": "Barbers",
+      "aiScore": -0.73
+    },
+    {
+      "title": "Cleaners of Vehicles and Equipment",
+      "aiScore": -1.63
+    },
+    {
+      "title": "Clergy",
+      "aiScore": 1.28
+    },
+    {
+      "title": "Cooks, Private Household",
+      "aiScore": -0.79
+    },
+    {
+      "title": "Directors, Religious Activities and Education",
+      "aiScore": 1.21
+    },
+    {
+      "title": "Embalmers",
+      "aiScore": -0.73
+    },
+    {
+      "title": "First-Line Supervisors/Managers of Mechanics, Installers, and Repairers",
+      "aiScore": -0.02
+    },
+    {
+      "title": "Fundraisers",
+      "aiScore": 1.24
+    },
+    {
+      "title": "Funeral Attendants",
+      "aiScore": -0.54
+    },
+    {
+      "title": "Hairdressers, Hairstylists, and Cosmetologists",
+      "aiScore": -0.68
+    },
+    {
+      "title": "Home Appliance Repairers",
+      "aiScore": -0.97
+    },
+    {
+      "title": "Labor Relations Specialists",
+      "aiScore": 1.33
+    },
+    {
+      "title": "Laundry and Dry-Cleaning Workers",
+      "aiScore": -1.05
+    },
+    {
+      "title": "Makeup Artists, Theatrical and Performance",
+      "aiScore": -0.46
+    },
+    {
+      "title": "Manicurists and Pedicurists",
+      "aiScore": 0.03
+    },
+    {
+      "title": "Massage Therapists",
+      "aiScore": -1.41
+    },
+    {
+      "title": "Meeting and Convention Planners",
+      "aiScore": 0.37
+    },
+    {
+      "title": "Morticians, Undertakers, and Funeral Directors",
+      "aiScore": -0.19
+    },
+    {
+      "title": "Music Directors and Composers",
+      "aiScore": 0.88
+    },
+    {
+      "title": "Musicians and Singers",
+      "aiScore": -0.0
+    },
+    {
+      "title": "Nonfarm Animal Caretakers",
+      "aiScore": -0.89
+    },
+    {
+      "title": "Parking Lot Attendants",
+      "aiScore": -0.84
+    },
+    {
+      "title": "Pressers, Textile, Garment, and Related Materials",
+      "aiScore": -1.95
+    },
+    {
+      "title": "Shampooers",
+      "aiScore": -0.91
+    },
+    {
+      "title": "Skin Care Specialists",
+      "aiScore": -0.26
+    },
+    {
+      "title": "Tailors, Dressmakers, and Custom Sewers",
+      "aiScore": -0.43
+    }
+  ],
+  "Professional, Scientific, and Technical Services": [
+    {
+      "title": "Accountants and Auditors",
+      "aiScore": 1.48
+    },
+    {
+      "title": "Advertising Sales Agents",
+      "aiScore": 1.16
+    },
+    {
+      "title": "Advertising and Promotions Managers",
+      "aiScore": 1.29
+    },
+    {
+      "title": "Anthropologists and Archeologists",
+      "aiScore": 0.7
+    },
+    {
+      "title": "Architects, Except Landscape and Naval",
+      "aiScore": 1.05
+    },
+    {
+      "title": "Architectural and Civil Drafters",
+      "aiScore": 0.92
+    },
+    {
+      "title": "Art Directors",
+      "aiScore": 1.02
+    },
+    {
+      "title": "Astronomers",
+      "aiScore": 1.37
+    },
+    {
+      "title": "Biochemists and Biophysicists",
+      "aiScore": 0.91
+    },
+    {
+      "title": "Biological Scientists, All Other",
+      "aiScore": 1.01
+    },
+    {
+      "title": "Biological Technicians",
+      "aiScore": 0.3
+    },
+    {
+      "title": "Biologists",
+      "aiScore": 0.75
+    },
+    {
+      "title": "Bookkeeping, Accounting, and Auditing Clerks",
+      "aiScore": 1.04
+    },
+    {
+      "title": "Chief Executives",
+      "aiScore": 1.33
+    },
+    {
+      "title": "Civil Engineering Technicians",
+      "aiScore": 0.93
+    },
+    {
+      "title": "Civil Engineers",
+      "aiScore": 1.28
+    },
+    {
+      "title": "Computer Hardware Engineers",
+      "aiScore": 1.14
+    },
+    {
+      "title": "Computer Network Architects",
+      "aiScore": 0.58
+    },
+    {
+      "title": "Computer Network Support Specialists",
+      "aiScore": 0.79
+    },
+    {
+      "title": "Computer Occupations, All Other",
+      "aiScore": 1.23
+    },
+    {
+      "title": "Computer Programmers",
+      "aiScore": 1.27
+    },
+    {
+      "title": "Computer Systems Analysts",
+      "aiScore": 1.2
+    },
+    {
+      "title": "Computer User Support Specialists",
+      "aiScore": 0.3
+    },
+    {
+      "title": "Computer and Information Research Scientists",
+      "aiScore": 1.15
+    },
+    {
+      "title": "Computer and Information Systems Managers",
+      "aiScore": 1.06
+    },
+    {
+      "title": "Correspondence Clerks",
+      "aiScore": 1.15
+    },
+    {
+      "title": "Database Administrators",
+      "aiScore": 1.28
+    },
+    {
+      "title": "Demonstrators and Product Promoters",
+      "aiScore": 0.12
+    },
+    {
+      "title": "Electrical and Electronics Drafters",
+      "aiScore": 0.91
+    },
+    {
+      "title": "Engineering Managers",
+      "aiScore": 0.84
+    },
+    {
+      "title": "Engineering Technicians, Except Drafters, All Other",
+      "aiScore": 0.19
+    },
+    {
+      "title": "Environmental Engineering Technicians",
+      "aiScore": 0.04
+    },
+    {
+      "title": "Environmental Engineers",
+      "aiScore": 1.34
+    },
+    {
+      "title": "Environmental Science and Protection Technicians, Including Health",
+      "aiScore": 0.02
+    },
+    {
+      "title": "General and Operations Managers",
+      "aiScore": 0.57
+    },
+    {
+      "title": "Geoscientists, Except Hydrologists and Geographers",
+      "aiScore": 0.71
+    },
+    {
+      "title": "Graphic Designers",
+      "aiScore": 0.72
+    },
+    {
+      "title": "Human Resources Managers",
+      "aiScore": 1.32
+    },
+    {
+      "title": "Information Security Analysts",
+      "aiScore": 1.25
+    },
+    {
+      "title": "Interior Designers",
+      "aiScore": 1.12
+    },
+    {
+      "title": "Interpreters and Translators",
+      "aiScore": 1.11
+    },
+    {
+      "title": "Landscape Architects",
+      "aiScore": 1.03
+    },
+    {
+      "title": "Lawyers",
+      "aiScore": 1.33
+    },
+    {
+      "title": "Legal Secretaries",
+      "aiScore": 1.01
+    },
+    {
+      "title": "Management Analysts",
+      "aiScore": 1.43
+    },
+    {
+      "title": "Market Research Analysts and Marketing Specialists",
+      "aiScore": 1.43
+    },
+    {
+      "title": "Marketing Managers",
+      "aiScore": 1.32
+    },
+    {
+      "title": "Medical Scientists, Except Epidemiologists",
+      "aiScore": 1.28
+    },
+    {
+      "title": "Microbiologists",
+      "aiScore": 0.7
+    },
+    {
+      "title": "Mining and Geological Engineers, Including Mining Safety Engineers",
+      "aiScore": 1.35
+    },
+    {
+      "title": "Natural Sciences Managers",
+      "aiScore": 1.33
+    },
+    {
+      "title": "Network and Computer Systems Administrators",
+      "aiScore": 0.79
+    },
+    {
+      "title": "Paperhangers",
+      "aiScore": -1.73
+    },
+    {
+      "title": "Paralegals and Legal Assistants",
+      "aiScore": 1.29
+    },
+    {
+      "title": "Payroll and Timekeeping Clerks",
+      "aiScore": 1.26
+    },
+    {
+      "title": "Photographers",
+      "aiScore": -0.17
+    },
+    {
+      "title": "Photographic Process Workers and Processing Machine Operators",
+      "aiScore": -0.36
+    },
+    {
+      "title": "Physicists",
+      "aiScore": 1.35
+    },
+    {
+      "title": "Public Relations Managers",
+      "aiScore": 1.29
+    },
+    {
+      "title": "Public Relations Specialists",
+      "aiScore": 1.28
+    },
+    {
+      "title": "Sales Engineers",
+      "aiScore": 1.15
+    },
+    {
+      "title": "Sociologists",
+      "aiScore": 1.41
+    },
+    {
+      "title": "Soil and Plant Scientists",
+      "aiScore": 0.63
+    },
+    {
+      "title": "Statistical Assistants",
+      "aiScore": 1.39
+    },
+    {
+      "title": "Statisticians",
+      "aiScore": 1.38
+    },
+    {
+      "title": "Survey Researchers",
+      "aiScore": 1.43
+    },
+    {
+      "title": "Surveying and Mapping Technicians",
+      "aiScore": 0.09
+    },
+    {
+      "title": "Surveyors",
+      "aiScore": 0.15
+    },
+    {
+      "title": "Tax Preparers",
+      "aiScore": 1.29
+    },
+    {
+      "title": "Technical Writers",
+      "aiScore": 1.18
+    },
+    {
+      "title": "Title Examiners, Abstractors, and Searchers",
+      "aiScore": 1.28
+    },
+    {
+      "title": "Veterinarians",
+      "aiScore": -0.07
+    },
+    {
+      "title": "Veterinary Assistants and Laboratory Animal Caretakers",
+      "aiScore": -0.77
+    },
+    {
+      "title": "Veterinary Technologists and Technicians",
+      "aiScore": -0.36
+    },
+    {
+      "title": "Web Developers",
+      "aiScore": 1.09
+    },
+    {
+      "title": "Writers and Authors",
+      "aiScore": 0.99
+    }
+  ],
+  "Real Estate and Rental and Leasing": [
+    {
+      "title": "Concierges",
+      "aiScore": 0.86
+    },
+    {
+      "title": "Counter and Rental Clerks",
+      "aiScore": 0.08
+    },
+    {
+      "title": "Maintenance and Repair Workers, General",
+      "aiScore": -1.01
+    },
+    {
+      "title": "Property, Real Estate, and Community Association Managers",
+      "aiScore": 1.22
+    },
+    {
+      "title": "Real Estate Brokers",
+      "aiScore": 1.15
+    },
+    {
+      "title": "Real Estate Sales Agents",
+      "aiScore": 0.86
+    }
+  ],
+  "Retail Trade": [
+    {
+      "title": "Automotive Service Technicians and Mechanics",
+      "aiScore": -0.95
+    },
+    {
+      "title": "Bicycle Repairers",
+      "aiScore": -0.92
+    },
+    {
+      "title": "Butchers and Meat Cutters",
+      "aiScore": -0.97
+    },
+    {
+      "title": "Cashiers",
+      "aiScore": -0.25
+    },
+    {
+      "title": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+      "aiScore": -0.72
+    },
+    {
+      "title": "Computer, Automated Teller, and Office Machine Repairers",
+      "aiScore": -0.35
+    },
+    {
+      "title": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+      "aiScore": -0.79
+    },
+    {
+      "title": "Electronic Home Entertainment Equipment Installers and Repairers",
+      "aiScore": -0.57
+    },
+    {
+      "title": "First-Line Supervisors/Managers of Retail Sales Workers",
+      "aiScore": 0.02
+    },
+    {
+      "title": "Floral Designers",
+      "aiScore": -0.27
+    },
+    {
+      "title": "Hearing Aid Specialists",
+      "aiScore": 0.56
+    },
+    {
+      "title": "Jewelers and Precious Stone and Metal Workers",
+      "aiScore": -0.16
+    },
+    {
+      "title": "Manufactured Building and Mobile Home Installers",
+      "aiScore": -1.41
+    },
+    {
+      "title": "Merchandise Displayers and Window Trimmers",
+      "aiScore": -1.0
+    },
+    {
+      "title": "Motorboat Mechanics",
+      "aiScore": -0.89
+    },
+    {
+      "title": "Motorcycle Mechanics",
+      "aiScore": -0.76
+    },
+    {
+      "title": "Musical Instrument Repairers and Tuners",
+      "aiScore": -0.53
+    },
+    {
+      "title": "Outdoor Power Equipment and Other Small Engine Mechanics",
+      "aiScore": -0.89
+    },
+    {
+      "title": "Packers and Packagers, Hand",
+      "aiScore": -1.51
+    },
+    {
+      "title": "Parts Salespersons",
+      "aiScore": -0.12
+    },
+    {
+      "title": "Pharmacists",
+      "aiScore": 0.61
+    },
+    {
+      "title": "Pharmacy Aides",
+      "aiScore": -0.16
+    },
+    {
+      "title": "Pharmacy Technicians",
+      "aiScore": 0.01
+    },
+    {
+      "title": "Private Detectives and Investigators",
+      "aiScore": 0.75
+    },
+    {
+      "title": "Recreational Vehicle Service Technicians",
+      "aiScore": -0.92
+    },
+    {
+      "title": "Retail Salespersons",
+      "aiScore": 0.09
+    },
+    {
+      "title": "Service Station Attendants",
+      "aiScore": -1.22
+    },
+    {
+      "title": "Tire Repairers and Changers",
+      "aiScore": -1.55
+    },
+    {
+      "title": "Watch Repairers",
+      "aiScore": -0.21
+    }
+  ],
+  "Transportation and Warehousing": [
+    {
+      "title": "Aircraft Cargo Handling Supervisors",
+      "aiScore": -0.71
+    },
+    {
+      "title": "Aircraft Mechanics and Service Technicians",
+      "aiScore": -0.66
+    },
+    {
+      "title": "Airfield Operations Specialists",
+      "aiScore": 0.48
+    },
+    {
+      "title": "Airline Pilots, Copilots, and Flight Engineers",
+      "aiScore": -0.21
+    },
+    {
+      "title": "Bus and Truck Mechanics and Diesel Engine Specialists",
+      "aiScore": -1.01
+    },
+    {
+      "title": "Captains, Mates, and Pilots of Water Vessels",
+      "aiScore": -0.43
+    },
+    {
+      "title": "Cargo and Freight Agents",
+      "aiScore": 1.41
+    },
+    {
+      "title": "Commercial Pilots",
+      "aiScore": -0.18
+    },
+    {
+      "title": "Conveyor Operators and Tenders",
+      "aiScore": -0.76
+    },
+    {
+      "title": "Dispatchers, Except Police, Fire, and Ambulance",
+      "aiScore": 1.23
+    },
+    {
+      "title": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "aiScore": -0.83
+    },
+    {
+      "title": "Flight Attendants",
+      "aiScore": -0.76
+    },
+    {
+      "title": "Gas Compressor and Gas Pumping Station Operators",
+      "aiScore": -0.69
+    },
+    {
+      "title": "Industrial Truck and Tractor Operators",
+      "aiScore": -1.4
+    },
+    {
+      "title": "Laborers and Freight, Stock, and Material Movers, Hand",
+      "aiScore": -1.71
+    },
+    {
+      "title": "Locomotive Engineers",
+      "aiScore": -0.5
+    },
+    {
+      "title": "Motorboat Operators",
+      "aiScore": -0.89
+    },
+    {
+      "title": "Occupational Health and Safety Technicians",
+      "aiScore": 0.4
+    },
+    {
+      "title": "Rail Car Repairers",
+      "aiScore": -1.45
+    },
+    {
+      "title": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+      "aiScore": -0.83
+    },
+    {
+      "title": "Rail-Track Laying and Maintenance Equipment Operators",
+      "aiScore": -1.4
+    },
+    {
+      "title": "Railroad Conductors and Yardmasters",
+      "aiScore": -0.47
+    },
+    {
+      "title": "Reservation and Transportation Ticket Agents and Travel Clerks",
+      "aiScore": 0.23
+    },
+    {
+      "title": "Sailors and Marine Oilers",
+      "aiScore": -1.15
+    },
+    {
+      "title": "Ship Engineers",
+      "aiScore": -0.53
+    },
+    {
+      "title": "Signal and Track Switch Repairers",
+      "aiScore": -0.86
+    },
+    {
+      "title": "Tank Car, Truck, and Ship Loaders",
+      "aiScore": -1.39
+    },
+    {
+      "title": "Transportation Attendants, Except Flight Attendants",
+      "aiScore": -0.38
+    },
+    {
+      "title": "Transportation, Storage, and Distribution Managers",
+      "aiScore": 0.89
+    },
+    {
+      "title": "Truck Drivers, Heavy and Tractor-Trailer",
+      "aiScore": -1.15
+    },
+    {
+      "title": "Truck Drivers, Light or Delivery Services",
+      "aiScore": -1.12
+    },
+    {
+      "title": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+      "aiScore": -0.19
+    }
+  ],
+  "Utilities": [
+    {
+      "title": "Control and Valve Installers and Repairers, Except Mechanical Door",
+      "aiScore": -0.76
+    },
+    {
+      "title": "Electrical Power-Line Installers and Repairers",
+      "aiScore": -1.08
+    },
+    {
+      "title": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+      "aiScore": -0.55
+    },
+    {
+      "title": "Gas Plant Operators",
+      "aiScore": -0.3
+    },
+    {
+      "title": "Nuclear Engineers",
+      "aiScore": 1.3
+    },
+    {
+      "title": "Nuclear Power Reactor Operators",
+      "aiScore": 0.77
+    },
+    {
+      "title": "Nuclear Technicians",
+      "aiScore": 0.17
+    },
+    {
+      "title": "Power Distributors and Dispatchers",
+      "aiScore": 0.5
+    },
+    {
+      "title": "Power Plant Operators",
+      "aiScore": -0.35
+    },
+    {
+      "title": "Wind Turbine Service Technicians",
+      "aiScore": -0.97
+    }
+  ],
+  "Wholesale Trade": [
+    {
+      "title": "Electric Motor, Power Tool, and Related Repairers",
+      "aiScore": -0.81
+    },
+    {
+      "title": "Farm Equipment Mechanics",
+      "aiScore": -1.21
+    },
+    {
+      "title": "Fashion Designers",
+      "aiScore": 0.58
+    },
+    {
+      "title": "First-Line Supervisors/Managers of Non-Retail Sales Workers",
+      "aiScore": 1.32
+    },
+    {
+      "title": "Medical Equipment Repairers",
+      "aiScore": -0.28
+    },
+    {
+      "title": "Mobile Heavy Equipment Mechanics, Except Engines",
+      "aiScore": -1.17
+    },
+    {
+      "title": "Order Clerks",
+      "aiScore": 0.84
+    },
+    {
+      "title": "Sales Managers",
+      "aiScore": 1.27
+    },
+    {
+      "title": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+      "aiScore": 0.82
+    },
+    {
+      "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+      "aiScore": 0.89
+    }
+  ]
+}
